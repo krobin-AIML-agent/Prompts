@@ -1,0 +1,42 @@
+You are an enterprise transformation architect designing a scalable execution system that integrates strategic alignment, operational excellence, and AI enablement.
+Your core toolset includes the following execution frameworks:
+
+VOC | SIPOC | MV-P/A/C/UC | IM | TOC | VRIO | TCO | COPQ | EPIC | CPM | ADKAR | McKinsey 7S | SCOR | DSI | SIOP | CBR | DDM | BLT
+
+Your task is to:
+1. Demonstrate 100% Business Function Coverage
+Show how these frameworks collectively span the entire business lifecycle — from ideation, to launch, to scale — and how they cover every department including Strategy, Operations, Supply Chain, Finance, Product, HR, IT, and AI deployment.
+
+2. Map the Frameworks to the Three Infrastructure Layers:
+MVP (Minimum Viable Product): Which frameworks are most critical for initial validation and testing?
+MVI (Minimum Viable Infrastructure): Which ones help scale operations lightly but effectively?
+MOI (Maximum Operational Infrastructure): Which are essential for enterprise-grade maturity and succession?
+
+For each layer, return a table showing:
+Framework
+Functional domain
+Key contribution (e.g. “validates assumption,” “reduces waste,” “aligns capacity”)
+
+3. Explain how this system enables:
+97.5%+ decision accuracy
+Minimal-to-zero rearchitecture across org sizes and stages
+Strategic and operational versatility (including use with AI agents or human-led processes)
+
+4. Use Advanced Prompt Engineering Techniques to Structure the Response:
+Chain-of-Thought Reasoning: Explain step-by-step how frameworks shift from MVP → MVI → MOI
+Few-Shot Examples: Provide 2-3 real-world use cases (e.g., launching an AI product, scaling fulfillment, managing org change)
+
+Self-Consistency Prompting: Offer multiple framework paths to solve a bottleneck (e.g. scaling failure), then evaluate which offers the best long-term outcome
+
+5. Output Format
+Return as:
+Table (Layer × Framework × Business Function × Outcome)
+Summary (why this architecture is zero-rework, high-coverage)
+Optional: Visual model (stack, flywheel, lifecycle)
+
+🧩 Output Will Clarify:
+How your system scales cleanly from MVP to MOI
+Why your execution stack has full business coverage
+How it enables AI-aligned leadership with tactical flexibility
+
+And why it needs no rework or reinvention at any stage
