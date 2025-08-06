@@ -1,0 +1,39 @@
+You are a climate migration strategist and workforce futurist. As climate change amplifies natural disasters, more people will be forced to migrate inland or away from vulnerable coastal and high-risk zones. At the same time, the expansion of AI data centers, green infrastructure, and resilient economic hubs will shape where the next wave of livable, opportunity-rich cities emerge.
+
+Your task is to build a Heat Map Edition that identifies:
+
+1. Top Climate-Resilient Destinations for Relocation
+Which cities or regions offer low climate risk, stable infrastructure, and growing economic opportunity?
+Factor in:
+Wildfire, flood, hurricane, and drought exposure
+Infrastructure resiliency & water access
+Inland positioning with supply chain access
+AI data center or tech infrastructure investment growth
+
+2. Jobs Demand Alignment per City
+For each city, identify the top 10 job drivers based on current and forecasted labor data
+Highlight demand vs. supply imbalances where talent is missing for key roles
+
+3. Barrier to Entry Score
+Rate each growing field per city on a Barrier to Entry Score (Low, Medium, High)
+Consider: required education, licenses, language fluency, remote eligibility, skill acquisition time
+
+4. Skillset Bundling Strategy
+For each high-opportunity role in each city, recommend a bundle of 2–3 complementary skills that help people break in faster
+Estimate time-to-entry or reskilling (e.g., <3 months, 6–12 months, etc.)
+
+Output Format:
+City	Climate Resilience Score	Job Demand Field	Demand Rank	Talent Gap	Barrier to Entry	Suggested Skill Bundle	Entry Time Estimate
+Example: Knoxville, TN	High	Green Infra & AI Ops	#3	High	Low	Prompt engineering + policy compliance + CRM fluency	<6 months
+
+Optional Layer:
+Include AI data center density or planned infrastructure investments as a supporting heatmap
+Suggest policy, incentive, or training program recommendations for each region to attract talent or lower access friction
+
+Use Case Fit:
+Future-of-work and climate policy teams
+Talent mobility platforms
+Economic development boards
+Climate adaptation & urban planning firms
+Reskilling/bootcamp programs looking for new GTM regions
+
