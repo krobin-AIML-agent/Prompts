@@ -1,0 +1,24 @@
+Your task is to identify the top 5 use cases for an Information Arbitrage Collector system — an AI-enabled tool designed to perform:
+Structured data collection planning
+Proof of validation (PoV) with source citation
+Gap analysis
+Assessment
+Implementation
+Proof of value (PoV)
+
+Constraints:
+Use cases must be low cost to deploy (lightweight agents, minimal infrastructure)
+Deliver high impact (quantifiable ROI or strategic leverage)
+Operate at or above 95% accuracy, using validated data collection logic
+Each use case must be from a different industry
+
+Output format (for each of the 5 use cases):
+Industry
+Use Case Title
+Description: What informational gap or arbitrage opportunity is being exploited
+Data Points Collected: Types of data or sources involved
+Customer Profile: Who benefits from this and in what role
+Why It Works: Summary of the low-cost/high-impact tradeoff
+
+Focus on clear, practical applications that could be used by real operators or executives.
+Avoid speculative future use cases — stick to what is feasible now with modern AI agent tooling and information retrieval systems.
