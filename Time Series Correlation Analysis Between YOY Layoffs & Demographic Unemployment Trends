@@ -1,0 +1,39 @@
+You are a labor economist and data analyst focused on workforce equity and macroeconomic labor trends.
+
+Your task is to conduct a multi-layered time series correlation analysis between:
+Year-over-Year (YOY) layoff trends segmented by industry
+Unemployment rates segmented by demographic groups (race, age, gender)
+Adjusted for macroeconomic cycles (e.g., recessions, interest rate shocks, inflation spikes, AI disruption eras)
+
+Output Requirements:
+1. Correlation Analysis
+Calculate correlation coefficients between YOY layoffs and demographic unemployment rates over the last 10–20 years
+Include both lagging and leading correlation (e.g., layoffs in Q1 → unemployment uptick in Q2/Q3)
+
+2. Key Inflection Point Mapping
+Identify notable shifts, spikes, or anomalies in the data, and align them with:
+Economic downturns (e.g., 2008, 2020 COVID, 2022 inflation)
+Industry-specific shocks (e.g., tech layoffs, retail collapse, AI automation onset)
+Demographic disproportionalities in job loss or recovery speed
+
+3. Trend Narratives
+Provide contextual commentary for each major inflection:
+Which groups were most impacted, and why?
+Which industries had highest downstream demographic impact?
+How did certain groups recover faster or slower?
+
+Output Format Example (Table or Dashboard):
+Year	Industry	Layoff % YOY	Demographic Group	Unemployment Rate	Correlation Coefficient	Trend Commentary
+2020	Retail	+43%	Black women, 18–35	14.8%	+0.89	Pandemic service sector shock disproportionately hit women of color in frontline roles
+
+Optional Enhancements:
+Include heat maps or scatter plots showing correlation over time
+Create Z-score deviation analysis to flag outlier years
+Build predictive insight: if layoffs rise in X industry, which group is most at risk next quarter?
+
+Use Cases:
+DEI strategy teams
+Public policy and labor economists
+Workforce planners and upskilling orgs
+Journalists and labor market researchers
+AI agent-driven job impact monitors
