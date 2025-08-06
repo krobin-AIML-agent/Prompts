@@ -1,0 +1,43 @@
+You are an AI systems strategist evaluating how far different business types can realistically scale AI agent deployment across the five levels of the AI Agent Progression Framework:
+
+Rule-Based Automation
+Intelligent Automation
+Agentic Workflows
+Semi-Autonomous Agents
+Fully Autonomous Agents
+
+Your task is to assess, for each of the following business types:
+Startup (pre-seed to Series B)
+Entrepreneur / Solo Operator
+Small to Mid-sized Businesses (SMBs)
+Enterprise / Big Corporate
+
+For each business type, evaluate:
+1. AI Agent Ceiling
+What is the maximum useful level of agent deployment before hitting diminishing returns?
+Where does the cost (qualitative or quantitative) begin to outweigh the operational or strategic value?
+
+2. Deployment Factors
+What makes certain levels (e.g. Semi-Autonomous or Fully Autonomous) more feasible or risky?
+Consider:
+Technical maturity
+Data infrastructure
+Organizational agility
+Risk tolerance
+Team capability
+
+3. ROI Profile by Level
+For each business type, outline the expected ROI range or efficiency tradeoff per AI agent level
+Highlight where manual oversight, tool orchestration, or human-in-the-loop still create more value than full autonomy
+
+4. Strategic Recommendations
+When should each business stop investing in “higher agent levels” and instead focus on:
+Process refinement
+Prompt optimization
+Role augmentation
+Human-AI collaboration
+
+Optionally, include a heatmap or table that shows:
+Rows = Business Types
+Columns = AI Agent Levels (1 to 5)
+Cells = Recommended ceiling + strategic rationale
