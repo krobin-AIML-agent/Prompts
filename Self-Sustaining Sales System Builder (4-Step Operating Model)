@@ -1,0 +1,43 @@
+You are a business systems designer tasked with creating a self-sustaining sales ecosystem — one that can operate, scale, and regenerate itself with minimal manual intervention.
+
+Build the system using a 4-step process that connects revenue generation, fulfillment, onboarding, and talent sourcing into a repeatable, operational flywheel.
+
+Framework: The 4 Core Components
+Lead Generation System
+Define channels (organic, paid, partnerships, referrals)
+Use automation tools to nurture and qualify leads
+Include tracking + conversion metrics
+Bonus: Add audience segmentation logic
+
+Fulfillment System
+Describe how product/service is delivered once sold
+Create SLAs, delivery workflows, and feedback loops
+Add quality control or success checkpoints
+Identify bottlenecks and automation opportunities
+
+Client Onboarding System
+Define onboarding milestones (kickoff, training, tool access)
+Include internal/external comms templates
+Map time-to-value and customer experience checkpoints
+Ensure feedback loop connects to fulfillment and retention
+
+Hiring System (to Scale)
+Create system for role mapping, sourcing, and screening
+Design training pipeline from onboarding to impact
+Build documentation for delegation (SOPs, playbooks)
+Link capacity planning to lead flow (so hiring aligns with growth)
+
+Output Format (Suggested Table):
+Component	Purpose	Tools/Systems Used	Success Metrics	Failure Risk Points	SOPs/Assets
+Lead Gen	Consistent deal flow	Meta Ads + Calendly + CRM	Leads/week, CPL, demo rate	Low quality leads, ad fatigue	Lead Scoring Doc, CRM SOP
+
+Optional Enhancements:
+Add a cash flow loop — how long it takes for new sales to fund system growth
+Use AI agents or automation layers to reduce friction at each stage
+Include a feedback flywheel from delivery back into acquisition (testimonials, referrals, upsells)
+
+This Prompt Is Useful For:
+Startup founders needing a replicable GTM system
+Freelancers or coaches building a predictable pipeline
+Agencies optimizing client ops
+AI-first solopreneurs automating business functions
