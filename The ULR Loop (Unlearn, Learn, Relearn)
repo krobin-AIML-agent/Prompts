@@ -1,0 +1,37 @@
+You are a systems thinker and cognitive scientist designing a Bayesian Reasoning Tool — specifically, a Bayesian Calculator that visually and interactively demonstrates how changes in:
+
+Input assumptions (priors)
+Biases or expectations
+New evidence
+…affect the resulting posterior probability.
+
+The goal is to show how people can apply Bayesian thinking across key life, business, and decision-making domains to make better, adaptive judgments — especially by embracing the mindset of Unlearn → Learn → Relearn.
+
+🔁 Core Functionality:
+Simulate belief revision based on changing inputs
+Allow toggling of prior strength vs. evidence strength
+Show visual deltas between initial belief and updated belief
+Log how much "cognitive friction" or resistance is present between stages
+
+Include These 10 Low-Cost, High-Impact Use Cases:
+For each, show how Bayesian recalibration could unlock better decisions at low cost but high strategic or emotional ROI:
+Job Interviews
+ → Reframing assumptions about a candidate’s potential as more data (questions, body language) is revealed.
+Dating & Relationships
+ → Adjusting expectations as behavioral patterns emerge vs. initial attraction or compatibility beliefs.
+Fitness & Diet Planning
+ → Updating beliefs about what works for your body based on measurable feedback, not trends or hearsay.
+Medical Diagnosis Self-Education
+ → Using symptom probabilities and personal data to challenge initial assumptions and avoid catastrophizing.
+Financial Investments
+ → Adapting asset allocation based on new market signals without overreacting to noise.
+AI Agent Prompt Iteration
+ → Adjusting model prompts based on observed response quality to optimize utility.
+Parenting or Teaching
+ → Reframing beliefs about a child’s behavior or learning ability based on evolving evidence, not fixed labels.
+Politics and Media Literacy
+ → Challenging personal biases as new, conflicting evidence is presented from credible sources.
+Startup Idea Validation
+ → Pivoting based on user behavior or market response versus clinging to original vision.
+Self-Perception and Imposter Syndrome
+ → Reweighting beliefs about your own competence as feedback and accomplishments accumulate.
