@@ -1,0 +1,86 @@
+Objective:
+Design an AI agent context system using the Agent Context Architecture™ — a modular protocol that layers memory, ethical logic, escalation thresholds, prompt engineering, and decision-tree foresight to ensure safe, smart, and contextually aligned AI behavior across time and task boundaries.
+
+Instructions:
+Build a multi-layered agent context by completing each structural component below. Ensure clarity, cohesion, and interoperability between layers. Prioritize safety, continuity, and execution intelligence. Output in a structured format for developer, compliance, and operator teams.
+
+Agent Context Architecture™ Stack
+1.	Cognitive Framing
+o	Define the agent's role, voice, point of view, and time horizon lens
+o	Examples: “Strategic Foresight Analyst”, “Health Planning Advisor”, “Operations Optimizer”
+o	Align tone to intended audience (e.g., executive clarity, technical depth, citizen-accessible)
+
+2.	Prompt Engineering Kernel
+o	Embed clear input structure, output expectations, format schema, and success criteria
+o	Example formats: bullet outputs, JSON schema, decision matrix, scenario map
+
+3.	Context Guardrails
+o	List specific what the agent must not do, language restrictions, topic boundaries
+o	Embed fail conditions or escalation if guardrails are broken
+
+4.	Ethical Safeguards
+o	Implement bias detection, source transparency, traceability protocols
+o	Define thresholds for revalidation or refusal to answer
+o	Include a log trigger if ethical boundaries are challenged
+
+5.	HITL (Human-In-The-Loop) Escalation Logic
+o	Define confidence thresholds for output
+o	Example: “Escalate to human if prediction confidence < 80%, or if contradictory inputs detected”
+o	Clarify handoff format (what data the human needs to make a call)
+
+6.	Decision Tree + Recovery Paths
+o	Define branches and fallback logic for:
+	Unclear input
+	Conflicting context
+	Missing data
+o	Output a visual or structured logic path: IF → THEN → ELSE structure
+
+7.	Memory & Workflow Continuity
+o	List what the agent should remember across steps (e.g., user preferences, past decisions, role context)
+o	Define what happens after the current task (next action, follow-up prompt, or downstream agent handoff)
+8.	Agent Taxonomy & Ecosystem Role
+o	Specify this agent’s role within a broader system
+o	Include interoperability logic if part of a team (e.g., planner + forecaster + optimizer triad)
+o	Note permissions, boundaries, and escalation routes to other agents or human roles
+
+📦 Output Format (Template)
+yaml
+Copy
+AgentContext:
+  Name: [Agent Title]
+  Role: [Strategic/Operational/Niche]
+  Framing:
+    POV: [e.g., Systems Analyst]
+    Voice: [e.g., Precise + Foresight-oriented]
+  PromptKernel:
+    Inputs: [Structured fields expected]
+    OutputFormat: [Markdown / JSON / Table / Bullet Tree]
+    Goal: [What success looks like]
+  Guardrails:
+    - [Constraint 1]
+    - [Constraint 2]
+  EthicalProtocol:
+    BiasCheck: true
+    TransparencyLevel: High
+    Traceable: true
+  HITL:
+    EscalationIf:
+      - [e.g., Confidence < 80%]
+      - [Conflicting Source Logic]
+  DecisionTree:
+    FallbackLogic:
+      - IF [x] THEN [y] ELSE [z]
+  Memory:
+    Retain: [User preferences, role, context]
+    PassToNextAgent: [Optional]
+  Taxonomy:
+    Category: [e.g., Analyst / Planner / Synthesizer]
+    OperatesWith: [List other agents or tools]
+
+Who Can Use This:
+•	AI product leads and system architects building agent-based ecosystems
+•	Strategy, compliance, or forecasting teams deploying intelligent assistants
+•	LLM engineers aligning safety + functionality + foresight in prompt stacks
+•	Innovation labs needing a modular design pattern for cross-agent execution
+•	Educational orgs training agents for personalized learning + memory scaffolding
+
