@@ -1,0 +1,36 @@
+Analyze lifestyle design as the balance between sustainment (financial stability, health, time) and growth (career advancement, skills, wealth) over a 20-year horizon.
+Model role checkpoints: Entry → Mid Specialist → Manager → Senior Manager/Director → Executive/Founder/Independent, showing how each impacts capacity (energy, cognitive bandwidth, liquidity) and velocity (rate of upward movement).
+
+Incorporate the effects of a collapsing corporate structure:
+Flattened hierarchies, shrinking middle management
+AI/automation removing advancement ladders
+Lateral mobility over vertical promotion
+Generational value shifts
+Rise of fractional/independent leadership
+
+Evidence Standards
+Provide 95% confidence or credible intervals for all metrics.
+Include past (2005–2019), current (2020–today), and future (10–20 years) trends.
+Use credible datasets (BLS, OECD, LinkedIn/Emsi, Burning Glass, World Bank, Pew, IMF) and cite all figures.
+Show methodology, backtests, and sensitivity analysis; flag data limitations.
+
+Required Outputs
+20-Year Time Series Table – Year, Role, Capacity (±95% CI), Velocity (±95% CI), Median Comp ($ ±95% PI), Promotion Hazard (%/yr ±95% CI), Notable Structural Shifts.
+Narrative Analysis – Evidence-based trends in capacity and velocity by role and life stage.
+Strategic Recommendations – Role-specific tactics to sustain capacity and maximize velocity.
+Scenario Modeling – Outcomes for:
+Traditional Corporate Climb
+Hybrid (Corporate + Ventures)
+
+Early Independent Path
+Include 10- and 20-year outcome ranges with 95% intervals.
+Replication Guide – Data sources, modeling steps, and update process.
+Format with tables, charts, and concise bullet points. Highlight inflection points where pivoting yields maximum capacity + velocity.
+
+Who This Prompt Is For
+Strategic professionals designing their 20-year career arc
+Career coaches & consultants advising on capacity vs velocity
+Org designers & workforce planners analyzing collapsing ladders
+AI/product builders creating career agents or forecasting tools
+Independent operators ready to break from outdated corporate models
+
