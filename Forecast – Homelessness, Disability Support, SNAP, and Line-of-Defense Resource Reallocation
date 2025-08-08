@@ -1,0 +1,42 @@
+Forecast projected changes in homelessness rates, disability support needs, SNAP (Supplemental Nutrition Assistance Program) participation, and public ‘line of defense’ resource allocation over the next 3–10 years. Include historical trends, current policy/economic conditions, and scenario projections, segmented by population density and key demographics."
+
+Segmentation Requirements
+Population Density Categories:
+High-density urban
+Suburban
+Rural / low-density
+
+Population Groups: General population, veterans, families with children, elderly, disabled individuals, unemployed
+Support Categories:
+Housing & shelter infrastructure
+Disability income and service programs
+SNAP participation and benefit levels
+Emergency response and ‘line-of-defense’ public safety/welfare budgets
+
+Time Horizons:
+Short-Term = 1–3 years
+Mid-Term = 4–10 years
+
+Evidence & Analysis Requirements
+Use credible datasets (HUD, USDA, SSA, BLS, Census Bureau, GAO reports, nonprofit sector data)
+Factor in macro drivers: inflation, unemployment, housing market trends, healthcare costs, climate-related displacement, migration patterns
+Model using historical baselines plus scenario adjustments for policy changes, economic cycles, and demographic shifts
+Include density-specific drivers (urban housing shortage, rural service access gaps, suburban resource allocation)
+Note uncertainties and limitations
+
+Required Outputs
+Forecast Table – Year, Density Type, Metric (Homeless %, Disability cases, SNAP enrollment, Line-of-defense funding), Baseline Projection, Scenario Variations
+Narrative Analysis – How population density affects each metric’s trajectory and resource strain
+Scenario Modeling –
+Optimistic – Stabilization or improvement through targeted investment and economic recovery
+Baseline – Gradual shifts aligned with current trends
+Pessimistic – Worsening conditions due to economic downturn or reduced program capacity
+Strategic Implications – For urban planning, nonprofit resource allocation, and density-specific policy
+Early Indicators – Metrics signaling trend acceleration or reversal (e.g., rental vacancy rates, migration data, shelter occupancy)
+
+Who This Prompt Is For
+Urban planners & housing policy analysts – Forecasting demand in high- and low-density areas
+Nonprofit leaders & social service providers – Allocating resources across density zones
+Public health & safety agencies – Planning for shifts in vulnerable population needs by geography
+
+Economic & social researchers – Studying welfare program participation with density ovelays
