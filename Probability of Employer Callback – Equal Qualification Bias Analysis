@@ -1,0 +1,30 @@
+Analyze the probability of receiving a callback from an employer when all applicants are equally qualified. Segment by demographic group, contractual status, name perception, and race as inferred from the application. Model this probability across demographic cohorts assuming identical qualifications, experience, and education.
+
+Segmentation Variables
+Demographics: Age range, gender identity, ethnicity/race categories (as perceived)
+Contractual Status: Full-time, part-time, contract, freelance, temporary
+Name Perception: Common/ethnic-specific, gender-neutral/gendered, anglicized/non-anglicized
+Race Filter: Race/ethnicity cues from name, address, associations, or resume signals
+
+Evidence Requirements
+Use credible datasets and studies (e.g., Bertrand & Mullainathan résumé study, BLS, EEOC, NBER, hiring bias meta-analyses)
+Apply statistical or historical analysis to simulate callback odds given equal qualifications
+Include methodology summary, dataset source notes, and limitations
+
+Required Outputs
+Probability Table – Demographic group, Contractual Status, Name Type, Race Signal, Callback Probability
+Narrative Analysis – Trends and patterns in callback likelihood across demographics and filters
+Scenario Modeling –
+No Bias Scenario – All groups at equal probability
+Historical Bias Scenario – Based on past observed data
+Policy Intervention Scenario – Adjusted for bias-mitigation measures
+Strategic Recommendations – For recruiters, policy makers, and applicants to reduce bias in callbacks
+Format with tables, charts, and concise bullet points. Clearly highlight where discrimination patterns appear even with equal qualifications.
+
+Who This Prompt Is For
+Labor Economists & Social Scientists – To study hiring bias patterns and quantify discrimination effects.
+DEI Leaders & HR Executives – To audit recruiting processes and benchmark fairness.
+Public Policy & Legal Advisors – To design or evaluate anti-bias hiring regulations.
+Recruitment Agencies & Talent Platforms – To identify bias risks in client hiring pipelines.
+Advocacy & Civil Rights Groups – To communicate systemic bias with data-backed evidence.
+Workforce Development Programs – To target interventions toward disadvantaged demographics.
